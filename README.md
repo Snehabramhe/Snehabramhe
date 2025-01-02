@@ -45,14 +45,15 @@ I’m a passionate **Web Developer** focusing on creating visually stunning and 
 - *Features:* User authentication, cart management, and secure payment integration.
 
 ### 🎨 [Portfolio Website](https://github.com/choure/portfolio)  
-- *Tech Stack:* Next.js, TailwindCSS  
+- *Tech Stack:* React js, TailwindCSS  
 - *Features:* Interactive UI, optimized for performance, and SEO-friendly.
 - *Live Demo:* <a href="https://snehabramhe.netlify.app/#projects" target="_blank">My Portfolio</a>
 
 
-### 🚀 [Blog CMS](https://github.com/choure/blog-cms)  
-- *Tech Stack:* React.js, Node.js, PostgreSQL  
-- *Features:* CRUD operations, admin dashboard, and markdown editor.
+### 🚀 [Contact Manager](https://github.com/Snehabramhe/contact_manager)
+- *Tech Stack:* React.js, Node.js, JSON Server  
+- *Features:* CRUD operations, admin dashboard, and Contact editor.
+- *Live Demo:* [Contact Manager](https://snehabramhe.github.io/show-contact)
 
 ---
 
