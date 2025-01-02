@@ -53,7 +53,7 @@ I’m a passionate **Web Developer** focusing on creating visually stunning and 
 ### 🚀 [Contact Manager](https://github.com/Snehabramhe/contact_manager)
 - *Tech Stack:* React.js, Node.js, JSON Server  
 - *Features:* CRUD operations, admin dashboard, and Contact editor.
-- *Live Demo:* [Contact Manager](https://snehabramhe.github.io/show-contact)
+- *Live Demo:* [Contact Manager](https://github.com/Snehabramhe/contact_manager)
 
 ---
 
