@@ -47,7 +47,7 @@ I’m a passionate **Web Developer** focusing on creating visually stunning and 
 ### 🎨 [Portfolio Website](https://github.com/choure/portfolio)  
 - *Tech Stack:* Next.js, TailwindCSS  
 - *Features:* Interactive UI, optimized for performance, and SEO-friendly.
-- *Live Demo:* [My Portfolio](https://snehabramhe.netlify.app/#projects){:target="_blank"}
+- *Live Demo:* <a href="https://snehabramhe.netlify.app/#projects" target="_blank">My Portfolio</a>
 
 
 ### 🚀 [Blog CMS](https://github.com/choure/blog-cms)  
