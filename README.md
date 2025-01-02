@@ -64,8 +64,8 @@ I believe in turning ideas into reality with lines of code! 💡
 ## 📬 Connect with Me  
 
 - 🔗 *GitHub:* [github.com/Snehabramhe]([https://github.com/choure](https://github.com/Snehabramhe))  
-- 🔗 *LinkedIn:* [linkedin.com/in/mohit-choure]([https://linkedin.com/in/mohit-choure](https://www.linkedin.com/in/sneha-bramhe/))  
-- 📧 *Email:* [mohit.choure@example.com](mailto:snehabramhe03@gmail.com)
+- 🔗 *LinkedIn:* [linkedin.com/in/sneha-bramhe]([https://linkedin.com/in/mohit-choure](https://www.linkedin.com/in/sneha-bramhe/))  
+- 📧 *Email:* [snehabramhe03@gmail.com](mailto:snehabramhe03@gmail.com)
 
 ---
 
