@@ -83,7 +83,7 @@ I’m a passionate **Web Developer** focusing on creating visually stunning and 
 
 - 🔗 *GitHub:* [github.com/Snehabramhe](https://github.com/Snehabramhe)  
 - 🔗 *LinkedIn:* [linkedin.com/in/sneha-bramhe](https://www.linkedin.com/in/sneha-bramhe/)  
-- 📧 *Email:* [snehabramhe03@gmail.com](mailto:snehabramhe03@gmail.com)
+- 📧 *Email:* [snehabramhe03@gmail.com](mailto:snehabramhe5@gmail.com)
 
 ---
 
