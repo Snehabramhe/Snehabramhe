@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm *Sneha Bramhe*  
-### 🚀 Web Developer | 💻 Tech Enthusiast | 🎨 Problem Solver
+### Web Developer 🖌️ | React.js ⚛️ | Material-UI 🎨 | Responsive Design 📱
 
 ![GitHub Banner](https://res.cloudinary.com/dzvodowb0/image/upload/v1736692372/cover_img_canva_nwf9k3.png)
 
