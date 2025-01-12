@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm *Sneha Bramhe*  
 ### 🚀 Web Developer | 💻 Tech Enthusiast | 🎨 Problem Solver
 
-![GitHub Banner](https://res.cloudinary.com/dzvodowb0/image/upload/v1735803395/sneha-gui-github-image_stdd5i.webp)
+![GitHub Banner](https://res.cloudinary.com/dzvodowb0/image/upload/v1736689918/Linkedin_Banner_Sneha_stfzjs.png)
 
 ---
 
