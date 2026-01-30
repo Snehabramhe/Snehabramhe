@@ -40,11 +40,11 @@ I’m a passionate **Web Developer** focusing on creating visually stunning and 
 ---
 ## 📂 Projects :
 
-### 🔥 [E-Commerce Store](https://github.com/choure/ecommerce-store)  
+### 🔥 [E-Commerce Store](https://github.com/Snehabramhe/sids-farm)  
 - *Tech Stack:* React.js, Node.js, Express.js, MongoDB  
 - *Features:* User authentication, cart management, and secure payment integration.
 
-### 🎨 [Portfolio Website](https://github.com/choure/portfolio)  
+### 🎨 [Portfolio Website](https://github.com/Snehabramhe/portfolio)  
 - *Tech Stack:* React js, TailwindCSS  
 - *Features:* Interactive UI, optimized for performance, and SEO-friendly.
 - *Live Demo:* <a href="https://snehabramhe.netlify.app/#projects" target="_blank">My Portfolio</a>
