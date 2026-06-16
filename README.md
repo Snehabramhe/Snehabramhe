@@ -1,5 +1,6 @@
-# Hi there! 👋 I'm *Sneha Bramhe*  
-### Web Developer 🖌️ | React.js ⚛️ | Material-UI 🎨 | Responsive Design 📱
+# Hi there! 👋 I'm Sneha Bramhe
+
+### Frontend & Mobile App Developer 🖌️ | React.js ⚛️ | React Native 📱 | Expo 🚀 | Next.js ⚡
 
 ![GitHub Banner](https://res.cloudinary.com/dzvodowb0/image/upload/v1736692372/cover_img_canva_nwf9k3.png)
 
@@ -7,13 +8,15 @@
 
 ## 🌐 About Me : 
 
-I’m a passionate **Web Developer** focusing on creating visually stunning and responsive websites. Here’s a quick look at what I do:
+I’m a passionate Web & Mobile Application Developer focusing on creating visually stunning, responsive, and cross-platform applications. Here’s a quick look at what I do:
 
-- 🖥️ **Responsive Design**: Optimizing websites for all devices.
-- ⚛️ **React & Redux**: Building dynamic applications.
-- 🌐 **API Integration**: Connecting third-party services.
-- 🧑‍💻 **Version Control (Git)**: Collaborating using Git.
-- 🚀 **Performance Optimization**: Speeding up websites for better user experience.
+- 🖥️ Responsive Design: Optimizing applications for all devices.
+- ⚛️ React.js & React Native: Building modern web and mobile applications.
+- 🚀 Expo Framework: Developing and deploying cross-platform mobile apps efficiently.
+- 🔄 State Management: Managing application state with Redux Toolkit.
+- 🌐 API Integration: Connecting third-party services and REST APIs.
+- 🧑‍💻 Version Control (Git): Collaborating using Git and GitHub.
+- ⚡ Performance Optimization: Improving application speed and user experience.
 
 ---
 
@@ -24,6 +27,10 @@ I’m a passionate **Web Developer** focusing on creating visually stunning and 
 
 ### *Front-End*  
 - ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![Material-UI](https://img.shields.io/badge/Material%20UI-%23007FFF.svg?style=for-the-badge&logo=material-ui&logoColor=white)  ![Chakra UI](https://img.shields.io/badge/Chakra%20UI-%230E1B28.svg?style=for-the-badge&logo=chakra-ui&logoColor=white)
+
+### Mobile Development
+- ![React Native](https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+- ![Expo](https://img.shields.io/badge/Expo-%23000020.svg?style=for-the-badge&logo=expo&logoColor=white)
 
 ### *State Management*  
 - ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-%23593D88.svg?style=for-the-badge&logo=redux&logoColor=white)  ![Redux Thunk](https://img.shields.io/badge/Redux%20Thunk-%237D3B82.svg?style=for-the-badge&logo=redux&logoColor=white)  ![Redux Saga](https://img.shields.io/badge/Redux%20Saga-%233D56B2.svg?style=for-the-badge&logo=redux&logoColor=white)
